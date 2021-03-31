@@ -13,6 +13,102 @@ global_users:
     ubuntu_groups: sudo
     givenName:  Sebastien RIBIERE
     ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUZyGwuaGDz/gCr9Dz+H/2gbn+TUho41Kc0sU07wVJc1VwODG9ne0o6a78BwDSUrdYKXifrn9s47SOkoorWic7GWkYFr4UOyhmtHChJOib5GUxOolDEU5S2BlKAMy1yA912bVVSXJELjG15nZc8NieBEhoNYuklep0P10uZo93yXFEc7KbMpIywJBSe5eNrXbpdlKrKn+f2CdsczdW+FvQeJpB7RaDUMLZWaxA//txsRKoedfKnWY6n+PfO62heoH0MX8eNB8W4WYxSh5o3acZ0m4kjgyvnagcHN5d3KJk886HyWH2p3l7+slP8yc0XxNiNi3PAf+hAtZQPjVcIcGh sribiere@PC12266-BES"
+  dandriatahiry:
+    ubuntu_groups: sudo
+    givenName:  ANDRIATAHIRY Dimby-Nomena
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAuDGu0X2D0e42c6Bf4ZGkbtFiio8mvIJl9HGzpWruXwI0XxbCJAljMljS34JyaQcb/xyBGpd+sSw2dprxD8Pio6OrQ3UoP/N2rsfos6q88am7Ueljursa832967XX8JdIeSQyidUZah0Ib6dVkJ7yoU124v1WLNWWGvZEiphifabvWWUjVbXzavPSpCIqv1BAj+NepNtVZZrl9OhbiCtTITHfnwZyBoIvoaxiwC3PK6MS2241bfdGd7f6U9r6OdSuJ4WWlZG9FUAoFoUxH8xQSO4l4Od6i58wwnBVkn8uimQzYetVOyYGENMRpqoFDoma9gj0hvLlKBUuPT1bNRHonw=="
+  sbarre:
+    ubuntu_groups: sudo
+    givenName:  BARRE Sylvere
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAmgtUQvox/KE9qayoYMJ3Qdufckbsyslvj/rXHNc9cVi5ypLPrhtHb3xf2JlhsGywqDMXtIGXvfnH4M51qNbm3YIZvPLpA3nhOWcIoHh83qx1U5yoBCyD0Gzqk0O8jKw9vAtZJemFbRnz3JFa2IdP0QlzsXTp9xibfeVafVjKs3j0v2oax3HaBgOvumdBiLY7HZ5pZShqRE+FvbwC+s9wdRxuQ+ltG4d0HaI1kwHMs9nWUvQBhgaqU5tCYYY6ts33dYW6lSirIctSEcPUw7zV46GxvfL/ms7xdbSW1mXc3onvhccpPIq8GLHLfxRFVAPYFXXouw/aXniayKozte7AgQ=="
+  abasset:
+    ubuntu_groups: sudo
+    givenName:  BASSET Alexis
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAxuG/SW2/RJlk5BShrWPH9tMXl4R84CVa5+un2UmVT858P7KEpkimvqDOHdZ7DfTGAwX5+3Bnlq586Y7OVZgIvCVV7Y3e6i27ZiwoY4MZK4KYFFJlO2JErWCeflieQJtrLsfvrI0YpecbR/UQg4galPHd2odQvoH+u+gkgQKgmNkS3JDFbg3pXeWtaK6B2f8we6TjR7Mm09cdD84dkxc7gR6aXdMQsJtU2c0aVHt2bsyjpScBkvl4cpWJ02OKAL8wnQD91XN9txKIUV2Y/FWCQJeftYoCLlL4mXZOHivSf0NwG0UbJMjhR9LJdenoEwPKXKf6IZ8brxG+P1JgekwQPw=="
+  abonin:
+    ubuntu_groups: sudo
+    givenName:  BONIN Antoine
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDqzhUDWJiHXAaJ6Hm9jsVeHQXMqU92RK03tev/bW5Iu7ixhOSxVSdlVvVKka260eM5mrd/eLu4dSILXhTXLX56b9AkkQ7nLEQjA9oQhAYYASyIhfekyEsv5iVI+QD3xQDX3ZlQezYSNN8WszF8KEro/OcqizfnVaREzRoYJG0z1TiYldOAI194uvfPfKZs6THH0xW0laLILa6LeCmwYHfXChZ4zqVbzaYQV0h1HNn3GBkibwjoKdNrld35dBRDJ8jMhPDLek299eDFw7AuKw5AB78G/x6lkgtRDsjIXlJb+120Byiqr3jhruZD0HGaEj+RLABmdADNiDafrVNQuShLqqQQ4qWrN8MiIUqG5cuZ2NjwQPhtX8LCPoYJYHUwnHYHSLy0O+3oW1Ugy9oTuCkFrHiXbdpVNOg5uqKaBdKlU9VFLShumxO4S53ZJtvrkhjXVnMkF9LvK58T+CEttdHbguBAeIrOLpsfHrN4irwUY54ozL/jSTzIXlcKo+UQRmE= antoi@DESKTOP-9AUQM7I"
+  qcaisez:
+    ubuntu_groups: sudo
+    givenName:  CAISEZ Quentin
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAuLT6/jpXFI70Tri1jHTRBhYs0NcvFlg3pAJguMUSjQnDfbpdz+1tqccQF5DrvHs6kApDUNpwDkueCLIFKoWvi8dcU5SpDL5H4YrzA7c/S69Et8A+muWQDLeEbXPJOD+jvcxs2ZXMpN4CClqJuYhVG9iUnj4NEdnVheDWHJ77uIa/if8b3Z3YeZiY8CpsT+bPIGqNtfTEtd2FUERKA13Qq6OUH30o8SbTZGwgsx9dGR8lltda/OpIRte82KEZpa/cPTO36Jbwng7QpDJIKbJMsHvFkPqTZnkTtGc3bJURH6s2aJRUUyBMJ2CYLlihCpwbQoRMu00RcuuS0iCRgJ3geQ=="
+  lcarre:
+    ubuntu_groups: sudo
+    givenName:  CARRE Loic
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAjBU1T8n4cbkmwsOcZEJzWCWnGJ+3aLqHUPY/AY2s52v4id6jywBlUaO2bKHzUYRadCprGdF5YPe77pNyj8SycR3Y/pomhyMNXwB/sx6wM+CAF06InXmR3KXy7s0p7FZQDJUOSChMkplBt/RnHdj6ngvtvqtk8YJgMdds+tIAdjZr7ID5GcfF/Jpersr4ML0rOTD1pAHMIBjaxhUQfa2dbgu9NgXcRAQKv26U97x8kF0/EbKs1EFjAti4MWXVSnVm/RNjowPPDqljzk3IPZBNu8kKPv4MOJ3B1XvfWEDaenl5yxexZF/2RFSKnulRFGlweaEr6S7sx4zneRSRxZmR4w=="
+  qcauville:
+    ubuntu_groups: sudo
+    givenName:  CAUVILLE Quentin
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAgMMknYS77RE03HhQjyCplDfLF30u3UETOXpk47tCLGq8Z5hxImn2ijoQj4wOxXP6WxjIQissOuYCyQtqgLEbM3Y5skQYtFiYLIxaOyLterE8r+2zjOGJaXxr8E6l8QZCGKJtLwufg8N9XQnK1xZi+0t5wMjtYdHxyVFzosbLIjKuk45fWz1EkSN7QEMB3B38dARbvhbwxn+fPXNyxxYIlcgOJZzjB540OT1WZbX5FJAWABiYVql9Emqis3iKcA+xvnd01JTIiMGzzIUj+1fSQ85sNtg84jFMKh8LnWHm7iJDop/TP8jU0u/5wZshXxBmo2x1mlbyBcFsaowmydhXlw=="
+  jcorreira:
+    ubuntu_groups: sudo
+    givenName:  CORREIA Joel
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUZyGwuaGDz/gCr9Dz+H/2gbn+TUho41Kc0sU07wVJc1VwODG9ne0o6a78BwDSUrdYKXifrn9s47SOkoorWic7GWkYFr4UOyhmtHChJOib5GUxOolDEU5S2BlKAMy1yA912bVVSXJELjG15nZc8NieBEhoNYuklep0P10uZo93yXFEc7KbMpIywJBSe5eNrXbpdlKrKn+f2CdsczdW+FvQeJpB7RaDUMLZWaxA//txsRKoedfKnWY6n+PfO62heoH0MX8eNB8W4WYxSh5o3acZ0m4kjgyvnagcHN5d3KJk886HyWH2p3l7+slP8yc0XxNiNi3PAf+hAtZQPjVcIcGh sribiere@PC12266-BES"
+  ddauteur:
+    ubuntu_groups: sudo
+    givenName:  DAUTEUR Dylan
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAqfA5zHDgngw/ADRRKiTY/STQiRJ+D1trMlwzQu9EMUVXDOrIb39iwR0lJURg/DR1L631nxG7AeuQAowikOuZKVSOsif3QhdsayfZZla+j0cpUQCwE8oMdPoRXwgZ5o5NheScv7DkMf5dFRMexojquRAgfDfRrW6PE4gm8VGpHZmxHElRifi2b1+3DkjxGVYZo0Q/oqpU5PjR66onJGrr66usKmlYuQSEoHdeirkRTgR6sthbcCZ5dVPN+2pKZckbYepIKizMXIIxNp/GzwozjNpO2VNGSlbGTFjb03+IR594rKUERoL6dJVlzwlleBlnireZBLSuzWMWss+ZaiJ4pQ=="
+  nelhajji:
+    ubuntu_groups: sudo
+    givenName:  EL HAJJI Nadia
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAjF5FY+qJXvI86riD+eTDWFonS86PAxtugO6+BJMuBDkWwHcoPa0UcW1Z7768gEy2VEJscZEbWgcOwMUXuB1JpAu/xdLNOeBKuGgxJs4jHBeKy8z7hqW5NsUgb3BeAyF/hTeSHt4abEOaG6Oe7YKkAXDAQ9rFiaeSjmrWyTPyvoJu/pUWwzHCaHE5f08GHrjaAGbZiRJDsdYQIecxCce4/9UauxXDIHwqXVe3MjsfYFg5JqWQVXrodNvus7JrWJC5B+z45VdmtI0dGUAUYZqPcZskux4Jz1a9gsl0yApWyyWQVjrlfYjmO+D8rCTVxOMC17G4oSpyAVka8eMrAgbbHw=="
+  hfray:
+    ubuntu_groups: sudo
+    givenName:  FRAY Henri
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAhYyWfcKQcIkOCdG1Vt3m9JIv+szH7l5pE5jUKUdK3B0KseHFirAXrEKreHwc6YFs4h+p72d9qGEhOUBQkrR7wD/LWs4OWHr1lMWsnbp3DwVl37sot6JI+Sqa4DM+B57wBdZXHA5Q5CP+OkLj+mjIQpR3tjC+0efsjbqXMIWeRwA4WHbNGljpbvdhrpqQPCGRCdx6vTua7b7VlBuen6ydozaGxdAqVQoddU/tIWR9gPgcDoFDHWQqTzXcH9Sry8qp+pZiO+CnVRhvLdNEWCjEAUD+9hpGjx2301D2VoY1jRNq3jfZhejfKH2UkWAjC2LZE/O/Xz/cpzAmcaCW47OGNw=="
+  cgagnepain:
+    ubuntu_groups: sudo
+    givenName:  GAGNEPAIN Clement
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAqmmfLJnnksMEdagKTZcdJsT02s67JKDRbiqgDJOckOvPMNq7OKv/OStEbjaWF9vEoFDwNvCAY6NBsp/I0KLDwZnAcJTvHZnDsWbtqTRZGIT28yQ/VpaptLVCeI0s/m8MBcJAIlCaqi97+eRMbMxQ6R0pKsQy6K7QswkK978BJ6jBqY5VPPRxnaVYIcGeiU0hyDZc9VlRyx08bJ+CdbuLytYuiBdu00NM9be1CX24J3Njwljd0hgKz0ekurD6JW+Jm/M9/zdMu9cGbLTUK7Q0rjTFxxhiEZQ+dmO9uEKaz/KdJIR1ISkDy20/eWYHcvhJjQxLoCh02gCIBtlU911y8Q=="
+  qjacot:
+    ubuntu_groups: sudo
+    givenName:  JACOT Quentin
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEApndzCVY+i/lo7ITjG4DVH2UjFzCWXnfKEaL8e2g9tZeDH2iD+CsuUl4A+uK5nIeERi1NLVfdoAk1M/XIMHaXgy/RBMTnBS65tUr8NSiWTORWCHSG9fAKV/XZLhcZxnIgO+RodSE9vUD/7GAd2J9PAAd3tC2My+ClQ26+TOKRU1bLrDyXvtpGxbK3PvHNdRBfUPYmas9SO8NljJD/S4v1/V1REXEnLxxnuBXhES9gtd+RljuvxfMjGATxhD5g8azwfFUAYFLMS51gE2A3ThAHe/+dcxja+hPf4gt+fFzVNIUAgAvegEp53wgXoZe4boaU7WAD1bzdBGNv+Tny9U1sTQ=="
+  bkoubemba:
+    ubuntu_groups: sudo
+    givenName:  KOUBEMBA BANKOUSSOU
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAi9xj69hqZ8Ra3cJXK9+l1n0ksn61tzyVkN8BPzg+IPlUU2W8dHt7t0vKcRvyzpikX7JemINLBRYnlBb9J+hCosyP5uqnqz732RrPcFxE8o+wh6Ok0Ds7zdIV8cKq+Cvw7Y1pa2+UVOVS5ebBoCf/8s7QnXIP2y4eGJldkmOQfv+SQuXXsTZD5UOD415ObTb6OtGg65o1gpXRAYUYEWXscPk1X2fdd8kKVOTihPnFl7nnwYAcLuwAjUI0hNM59Nou+TZkz7VZ0Naj3rLGyxoevypwtIBneHcgTsAhAat4Cf+B5vbPhM8dJgMQ2kEuVaOkmEPXYwA7AEQHQEXOTh4NdQ=="
+  ylopesregab:
+    ubuntu_groups: sudo
+    givenName:  LOPES REGAB Yanis
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAuivN13fCYHb++Af2G5MbAkvPLbrz2wp7+iuqAc5K3iC43aGo2hwXI2K0DiEQpiMGbKpBY/R8gT9qus1ROOocDIyAhCL+ETDWnEzk+4XBwqRLTkBuroT7ZtOzya7URWub4nV+4H3//8aLxEiyqRYptAxDMl/NxTPT+U6JrHDYTE2VEKSuN9uBat8lhtv//8eYJ5nooui9srFBj1MuoDnd/Ejc8DjOA3gQa01sGVRCbc9ulgijr7Z1wJkR5isrJqssOyf1fCltw0vWOmevaOI0hkBlYxofTlz4eg3hZj4ZJTpmw+E1MXFvJurHjhtJIpBrIZCo8ryQ3UvsiehQPq6muQ== rsa-key-20210331"
+  tmagnien:
+    ubuntu_groups: sudo
+    givenName:  MAGNIEN Timothy
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA2iBfC6a5TPH+pah2cvQdkStjxZqERF+nkP7Ix1HmNCM7ffKQ0CxD+SDy/WQrDMVVph0nIGyamxTuPc/BIXOm+4erAUhWyBM7JohSIA52vz+jncRVtHflS5qWfccJfthHIOdJskeGM/m/E/mkBvVUQT01/dFwxTkQ+c0swiO7t+FuYBoN960gDsZkg9qI2D92j3VbH92Uy0Lo08HIx0ujLvph7N7PPUQz2JD6St5ckXm0Uiad4pc3hv7UFVmGssponS2HHE8OkxvEm9poEdVamc1G97PcgPw5l35Akox9Nbc9BR/egsuh9x3Stf+cZ3LVPGD4A4BzfpD879VEh41ddw== rsa-key-20210331"
+  vmarchal:
+    ubuntu_groups: sudo
+    givenName:  MARCHAL Virgile
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAn8BT00hI8pdXrUqU2GYhbma5WVSCbbj8HmE+GEvmFAiwIaubO2DA+BYYaNt4zrFBw+LDbAfnn+zSxbKADlb1lwQ3PjyEfHygv0GdiZqIHP+Y/2pFjfGjdrDSs4ZqVFs51f83yUVb4i9hj3mWwt12qyzYcMMa5waz9jqPacwj5XMUg1xClizs/YpTo6F9Zqr3/NIG15W9Bxiy5tgwfTqR9D+krpuAyum1AjVwWvI3lMrXr1hTda0WF88H/ufKafBx8ZyaEIK6+Gc6PeBMZzqCJhzG0rXAfIL95+vEnSlqxHIzk0hQZdT3QFEmR598pzwgEoFqCnQPFsBscdfIYA6mlw== rsa-key-20210331"
+  kmarquand:
+    ubuntu_groups: sudo
+    givenName: MARQUAND Kevin
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAt7OBHMryPqgFSbF8dSChOFHOkhLuZHO3uScoKwxixkP5bqQiRTY8i6TmHNVNX7epixwGamzD7wEl55fCVCRq70nboq7pWzj1458wtUDyVEMmPxEO+9ng5Uk+vZmLe9klfP5+fy2WI7tFP7J/9hQ/8cYTke9cJ0KKVy9cVLlRA9nPk8Qu9jvFAd1w8idMrIIez8Np01QV3H+WUkSnMUxjT0b9Ms4sDDqEN42OtS5BH54AN1WQxTkA+heEKXUWwwj+OAR4BDjl9uLT/ufawnqAX/LzVVqhtv4187ITDR7yQEyUfy9zJ+yDVLqVqBjFJ8d2hLj42Xl1YNEYzkieK4GxHQ=="
+  lmesser:
+    ubuntu_groups: sudo
+    givenName:  MESSER Lenny
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAgCY9eLZYyOpHWhmzqo2uUypPeaoXBbCKDJzKUiOKh7kS+4oR4Q6+7YQUYBa0zVUiBM42rw/4djOYPAYifFwqX+9pFyePkyv+1EcAW0blt5bjeLwTAU5QCBjMN9qCSHz+2J5nIMjbDoAXonA8gwG+dksxQHX8WI99wNsZ3+eFBUwzvcGneswhiL33KbUg26KLtNVPrdzSnYQes7w"
+  aparfait:
+    ubuntu_groups: sudo
+    givenName:  PARFAIT Alexis
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA3xhOl/GHlMHDxZoZSCrsjX8hynLwmlq/jW02o3ypCcNFMHiDFt1Q78yYp04/gxbtLl7W7W9cX1QWJoUM52B3GJrnuZLxvbDmAdYiscFVaffjJScnolyHlQ2X6F191cWNpVI+9P4uF1v6nZMU+m4gEHp3kfazlT92w7sbrOJ9wgCD91Bod6Sg23J1Y8G8gEt1xo/TizsLCVHGq/uugusZtfyWciqKBTgdFfFdiOTgo/Nlc/TOD2M0dO98KvJUkS6rlvSsMEOnmTqBKksEU3GUxhZUhyLuB2Z8KqbrSMNRANFlB0vu66TKSlHjgPuEv0UB/SfK8m+OSLxPtHQkOir4iQ=="
+  kperyton:
+    ubuntu_groups: sudo
+    givenName:  PERYTON Kilian
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAul4BR41PEVAz3LJiJMlBCDPxBugdLfBKavUx8DM0GpP8C6hl3Qw2NKuuJSP8dYKfhnvY4F8vc0Y4LPdS5xB+n8K7ZDl3EHDgeW5yxoDVEBQiIdveAUuaSuetvkimKGQ6vx0crD3Vkkbf+SbNNLc8o01ptIA5idKbEAQF5+5EaNx6hU3zw/IS65lyshQZpYS4IIknTHkR8ALq/BLZ6b0beBN7Q27LzND564oxaPFP3LieiBBdl2OojHz6DKUdGp3sjMeVXr7GPOEYY9ND2poMcI9K/PL4trHJhM/4Zb3fRcjbTY87asZsmgXBspMAjWVmtxZVTMIH4ZALreAcnw2KrQ=="
+  pprovost:
+    ubuntu_groups: sudo
+    givenName:  PROVOST Paul
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAqdctF2wMPJl3zapfUkw/6TEEAmTFaEGkFNYrWBzSEKRIVs2yH2OW3z9PKu8gExCx0icBltQcLmTBhfrw73+mRweqT9QUp+rBiKZTuCqBLTRTKtWjtsKgXQ54hL0R+5hQ5bbLz+rqwbClcVwHNSnKtlW3bko+RWp65//Claf6MS257CbV9VeIBbO8g63ZW+XvlgT6V+S7hO+ptx6NeL7x0Y3eZcNQcOTnaHFDA/2wsRKQBaZf4ipYe00FrAhz2N9PCZhnMR7Jpte1RDZfYO8gi/A15ei6WobmplFvbpYi3a/SOSNAnDpFJ8Q36IaDRIpj4fVcfmhVcIDhq9vMv6cMiw=="
+  mvoegtlin:
+    ubuntu_groups: sudo
+    givenName:  VOEGTLIN Michaël
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAreGK6YF63ehU3WumQmTgpr3oLbg5u5GOOVwN0BLhDb1eEbHxnVLhXkD+VOSoxvH3R7R0lMBLUUGaPScBMRSc/42gBHrQ3CxTWVTwXGdBEDmiq1tGi9NWe6+1e6xkhrvRnLsUI1Pi7mi6pCUlfCsseiPSNBUVsaRTakMTrN6QR+u7Vy2AY4yS36vGhoDc62kjX+VZXxN7wVdumjB9cYH7vGsezhKwtdJRl2Z5hniQ/GgS6mHvoPpe42YMf28XoqGiNszXwS2uiNdOijCyimeEKHedwZ+3MVv4JlRdSKpZ/LJJIIorcCBL/MIpgFgNWn4673RRzrTS5CfSOfK7hbx7Bw=="
+  cvorillon:
+    ubuntu_groups: sudo
+    givenName:  VORILLION Clément
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAmDAhV2DNyqT3BtpUTHj0uia/kF5OWcfCiBR7Vpjhh8IjMhNMS/ZAwEsj8Pj5EE1HxDnRGeIBUP1ia+B29lLYhVcPHtqzoh2KTuQh1zCxTtCPtsj0lqVqnQ90dHQlDRJnTSh8bXR0NiGIZEviHxgSL+rxNXT71BgW5Rk7QLmN4cTMJ5ljVkfvnQv2p1T/xiBpUsLy0ER5EkG/xa0ICOs4U3oSB4ege/A2CXOI18nShU2vNuIWN95SWFQLbhXd66hk/3xb4ljH7Hzl+QrOA620FFQ8mFHa7kYsPRU56ZPbLh577efnVp+L9djdC6wVaY5PxHwS46RtAnUkvUOOJVuQhQ=="
 
 users_skeleton:
   shell: /bin/bash

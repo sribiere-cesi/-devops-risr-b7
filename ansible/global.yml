@@ -2,15 +2,61 @@
 - name: deploy common roles on global ubuntu hosts
   hosts:
     - sribiere
-
+    - dandriatahiry
+    - sbarre
+    - abasset
+    - abonin
+    - qcaisez
+    - lcarre
+    - qcauville
+    - jcorreira
+    - ddauteur
+    - nelhajji
+    - hfray
+    - cgagnepain
+    - qjacot
+    - bkoubemba
+    - ylopesregab
+    - tmagnien
+    - vmarchal
+    - kmarquand
+    - lmesser
+    - aparfait
+    - kperyton
+    - pprovost
+    - mvoegtlin
+    - cvorillon
   become: yes
   user: ubuntu
   ignore_errors: yes
   vars:
     docker_release: edge
     docker_users:
-      - sribiere
-
+    - sribiere
+    - dandriatahiry
+    - sbarre
+    - abasset
+    - abonin
+    - qcaisez
+    - lcarre
+    - qcauville
+    - jcorreira
+    - ddauteur
+    - nelhajji
+    - hfray
+    - cgagnepain
+    - qjacot
+    - bkoubemba
+    - ylopesregab
+    - tmagnien
+    - vmarchal
+    - kmarquand
+    - lmesser
+    - aparfait
+    - kperyton
+    - pprovost
+    - mvoegtlin
+    - cvorillon
   roles:
     - { role: common, tags: ['common'] }
     - { role: users, tags: ['users'] }
