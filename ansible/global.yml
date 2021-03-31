@@ -1,0 +1,19 @@
+---
+- name: deploy common roles on global ubuntu hosts
+  hosts:
+    - sribiere
+
+  become: yes
+  user: ubuntu
+  ignore_errors: yes
+  vars:
+    docker_release: edge
+    docker_users:
+      - sribiere
+
+  roles:
+    - { role: common, tags: ['common'] }
+    - { role: users, tags: ['users'] }
+#    - { role: docker, tags: ['docker'] }
+#    - { role: docker-compose, tags: ['docker-compose'] }
+
