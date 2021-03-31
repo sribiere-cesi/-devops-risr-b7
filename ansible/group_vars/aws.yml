@@ -56,7 +56,7 @@ global_users:
   hfray:
     ubuntu_groups: sudo
     givenName:  FRAY Henri
-    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAhYyWfcKQcIkOCdG1Vt3m9JIv+szH7l5pE5jUKUdK3B0KseHFirAXrEKreHwc6YFs4h+p72d9qGEhOUBQkrR7wD/LWs4OWHr1lMWsnbp3DwVl37sot6JI+Sqa4DM+B57wBdZXHA5Q5CP+OkLj+mjIQpR3tjC+0efsjbqXMIWeRwA4WHbNGljpbvdhrpqQPCGRCdx6vTua7b7VlBuen6ydozaGxdAqVQoddU/tIWR9gPgcDoFDHWQqTzXcH9Sry8qp+pZiO+CnVRhvLdNEWCjEAUD+9hpGjx2301D2VoY1jRNq3jfZhejfKH2UkWAjC2LZE/O/Xz/cpzAmcaCW47OGNw=="
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAwruAeo+UCwtvU5GwpV4stznyKdtOqSC6tHYxvJ2hM4W8mKF9IK35zaiAtlQJ0+IK4+NrbRTaKVL0AhOUVukRvZ8evTKBpyhL9qYLSB7nXFUBIDp9/wOOnlA0jYQ89y72GTsAaILnhcG9uwm5EGUVjAVxxFMlKGHc5OMXXrBPDf0bXN2+/2pUGcpfBBFIy/C53irGiiVEOM9pvB3hDsZIUvAaYDI7QnfiWbvpUzd+K6q2IgMGMS/aMaHPSSjG4453HsA1VquVAdw6kuzsjuY4z+iS5+fjnQ1L2EYAmm4HAYdWQn2q/Rb707T5MfHbixRLttBZxjeS19bbIPP7MuRI8Q=="
   cgagnepain:
     ubuntu_groups: sudo
     givenName:  GAGNEPAIN Clement
@@ -72,7 +72,7 @@ global_users:
   ylopesregab:
     ubuntu_groups: sudo
     givenName:  LOPES REGAB Yanis
-    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAuivN13fCYHb++Af2G5MbAkvPLbrz2wp7+iuqAc5K3iC43aGo2hwXI2K0DiEQpiMGbKpBY/R8gT9qus1ROOocDIyAhCL+ETDWnEzk+4XBwqRLTkBuroT7ZtOzya7URWub4nV+4H3//8aLxEiyqRYptAxDMl/NxTPT+U6JrHDYTE2VEKSuN9uBat8lhtv//8eYJ5nooui9srFBj1MuoDnd/Ejc8DjOA3gQa01sGVRCbc9ulgijr7Z1wJkR5isrJqssOyf1fCltw0vWOmevaOI0hkBlYxofTlz4eg3hZj4ZJTpmw+E1MXFvJurHjhtJIpBrIZCo8ryQ3UvsiehQPq6muQ== rsa-key-20210331"
+    ssh_key: "Nouvelle clé désolé : ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEApFNdXXuOWnX59AwaKStJaI1BNxCB2lgVn9vI7QMqbVKPkAmM4g1Pt6NnS6s6N3HPmI0NUYwOZ1/6nXDUg+2w3Wu+X+X1bhInvMxrIi9P3T+S7EmRSA2wCH6IpRviwafbQDnMttx/bvkDrhoZylJcVIRbZpwNwHypzrhGGnKjbsrHlFe0D87qaMXiU8HR1bB4EWdO410RgsPWi90O1C3u1Zwg0B508XWLyB/k1vw5f045iX6VGoYiMRC0hp7PdqR9BHhO51pPDVLAZfs6kgMtzglAu1EygypVbggAy4uG1oVJDloutTxnS9LglMDqgeScBobmAjMi/p2R4G89vtil9w== rsa-key-20210331"
   tmagnien:
     ubuntu_groups: sudo
     givenName:  MAGNIEN Timothy
