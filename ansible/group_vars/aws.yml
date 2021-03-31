@@ -44,7 +44,7 @@ global_users:
   jcorreira:
     ubuntu_groups: sudo
     givenName:  CORREIA Joel
-    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUZyGwuaGDz/gCr9Dz+H/2gbn+TUho41Kc0sU07wVJc1VwODG9ne0o6a78BwDSUrdYKXifrn9s47SOkoorWic7GWkYFr4UOyhmtHChJOib5GUxOolDEU5S2BlKAMy1yA912bVVSXJELjG15nZc8NieBEhoNYuklep0P10uZo93yXFEc7KbMpIywJBSe5eNrXbpdlKrKn+f2CdsczdW+FvQeJpB7RaDUMLZWaxA//txsRKoedfKnWY6n+PfO62heoH0MX8eNB8W4WYxSh5o3acZ0m4kjgyvnagcHN5d3KJk886HyWH2p3l7+slP8yc0XxNiNi3PAf+hAtZQPjVcIcGh sribiere@PC12266-BES"
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAkpALDOtVqiZHVk7woKTYwDHBzXXzQEC9Z028gPdScoXhPsrouoMssuW5It5HJIb8RgyW7VMr8UrMdMXmuB4Txz8uieXQO/icTetgnR2HsYyp0qHiY0c3hSGrOa24bCwqreB9rBtkBNM0cQpW0mXMoVZeMVhqVBKnR8QcSWMGxtf443XK50ivgGgmwGovpmIeBLoHpgah/YYcJJPbLmtBAyHykh8fgQ3wGqm/ahml0oyb9+AcbsMSn2tMF23Bw6GgIDdY7+uRvhxZQn6/kXHtQgZ74R0uZR1/JNJ7WDu7saxHWxGA14TQhmLclLlgRMJEYJb2HllGhG7Gi9fU4TX58w=="
   ddauteur:
     ubuntu_groups: sudo
     givenName:  DAUTEUR Dylan
