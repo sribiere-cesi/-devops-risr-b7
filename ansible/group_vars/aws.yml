@@ -72,7 +72,7 @@ global_users:
   ylopesregab:
     ubuntu_groups: sudo
     givenName:  LOPES REGAB Yanis
-    ssh_key: "Nouvelle clé désolé : ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEApFNdXXuOWnX59AwaKStJaI1BNxCB2lgVn9vI7QMqbVKPkAmM4g1Pt6NnS6s6N3HPmI0NUYwOZ1/6nXDUg+2w3Wu+X+X1bhInvMxrIi9P3T+S7EmRSA2wCH6IpRviwafbQDnMttx/bvkDrhoZylJcVIRbZpwNwHypzrhGGnKjbsrHlFe0D87qaMXiU8HR1bB4EWdO410RgsPWi90O1C3u1Zwg0B508XWLyB/k1vw5f045iX6VGoYiMRC0hp7PdqR9BHhO51pPDVLAZfs6kgMtzglAu1EygypVbggAy4uG1oVJDloutTxnS9LglMDqgeScBobmAjMi/p2R4G89vtil9w== rsa-key-20210331"
+    ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEApFNdXXuOWnX59AwaKStJaI1BNxCB2lgVn9vI7QMqbVKPkAmM4g1Pt6NnS6s6N3HPmI0NUYwOZ1/6nXDUg+2w3Wu+X+X1bhInvMxrIi9P3T+S7EmRSA2wCH6IpRviwafbQDnMttx/bvkDrhoZylJcVIRbZpwNwHypzrhGGnKjbsrHlFe0D87qaMXiU8HR1bB4EWdO410RgsPWi90O1C3u1Zwg0B508XWLyB/k1vw5f045iX6VGoYiMRC0hp7PdqR9BHhO51pPDVLAZfs6kgMtzglAu1EygypVbggAy4uG1oVJDloutTxnS9LglMDqgeScBobmAjMi/p2R4G89vtil9w== rsa-key-20210331"
   tmagnien:
     ubuntu_groups: sudo
     givenName:  MAGNIEN Timothy
